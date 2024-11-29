@@ -1,0 +1,8 @@
+name: 'dockerfile_practice'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.11
+  - matplotlib==3.8.0
+  - pandas==2.2.3
